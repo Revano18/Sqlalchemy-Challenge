@@ -1,6 +1,6 @@
 # Sqlalchemy-Challenge
 
-nalysis:
+Analysis:
 Station Activity:
 
 -- The station USC00519281 is the most active, suggesting it is likely situated in a region with continuous or frequent temperature recording, possibly due to high relevance in terms of weather monitoring or station availability.
